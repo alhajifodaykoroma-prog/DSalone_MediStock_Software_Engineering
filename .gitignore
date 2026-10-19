@@ -1,0 +1,17 @@
+# Dart generated files
+.dart_tool/
+.packages
+build/
+
+# IDE files
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
